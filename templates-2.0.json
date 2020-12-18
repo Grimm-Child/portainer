@@ -1,6 +1,7 @@
 {
 	"version": "2",
-	"templates": [{
+	"templates": [
+		{
 			"type": 1,
 			"name": "duplicacy",
 			"title": "Duplicacy",
